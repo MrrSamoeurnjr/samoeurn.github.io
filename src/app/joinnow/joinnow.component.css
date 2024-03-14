@@ -1,0 +1,23 @@
+.container 
+{
+    background-color: aliceblue;
+    padding: 140px 100px;
+    
+}
+.edit-arrowright
+{
+    font-size: 17px;
+    background-color: rgb(179, 222, 235);
+    padding: 5px;
+    border-radius: 5px;
+}
+.form-group 
+{
+    margin-bottom: 20px;
+}
+@media screen and (max-width:600px){
+    .container 
+    {
+        height: 700px;
+    }
+}

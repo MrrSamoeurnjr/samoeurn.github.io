@@ -1,0 +1,43 @@
+.course
+{
+    background-color: #eff6ff;
+    padding: 50px 100px;
+}
+.edit-arrowright
+{
+    font-size: 17px;
+    background-color: rgb(179, 222, 235);
+    padding: 5px;
+    border-radius: 5px;
+}
+.box 
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    padding: 10px 20px;
+    height: 400px;
+}
+.box img 
+{
+    width: 100%;
+    /* height: auto; */
+}
+.box h3
+{
+    font-size: 20px;
+}
+.box p
+{
+    font-size: 15px;
+    font-size: initial;
+}
+@media screen and (max-width:600px){
+    .box
+    {
+        width: 100%;
+        margin-top: 15px;
+    }
+}

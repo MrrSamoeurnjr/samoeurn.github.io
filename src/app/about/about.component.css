@@ -1,0 +1,30 @@
+.container 
+{
+    height: 600px;
+}
+.container h1
+{
+    margin-top: 20px;
+}
+.follow
+{
+    margin-top: 20px;
+}
+.follow a {
+    padding: 10px;
+    color:#000;
+    font-weight: bold;
+    text-decoration: none;
+    color: blue;
+    font-size: 15px;
+}
+.follow a:hover
+{
+    color: antiquewhite;
+}
+@media screen  and (max-width:600px){
+    .container  
+    {
+        height: 800px;
+    }
+}

@@ -1,0 +1,42 @@
+.navbar
+{
+    color: #000;
+    font-size: 18px;
+}
+.edit-bavbar
+{
+    background-color: red;
+    padding: 16px 16px;
+    border-radius: 5px;
+}
+.edit-bavbar a
+{
+    color: #fff;
+}
+.edit-bavbar a:hover 
+{  
+    color: #f29c9c;
+}
+footer
+{
+    background-color:black;
+    height: 60px;
+    text-align: center;
+}
+.locationlink 
+{ 
+    text-decoration: none;
+    color: greenyellow;
+    font-weight: bold;
+}
+.locationlink:hover
+{
+    color: rgb(208, 242, 158);
+}
+p
+{
+    color: #fff;
+}
+@media screen and(max-width:600px){
+    
+}
